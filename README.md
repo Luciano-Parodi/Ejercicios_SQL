@@ -4,7 +4,7 @@ Colección de 57 ejercicios prácticos de SQL que cubren consultas avanzadas, fu
 
 ## 📌 Contenido
 
-- **26 ejercicios numerados del 32 al 57**
+- Un total de 57 ejercicios
 - Consultas con diferentes niveles de complejidad
 - Ejemplos prácticos con bases de datos relacionales
 - Soluciones completas y listas para ejecutar
