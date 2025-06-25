@@ -1,6 +1,8 @@
 # Ejercicios de SQL Avanzado
 
-Colección de 57 ejercicios prácticos de SQL que cubren consultas avanzadas, funciones de ventana, CTEs, joins complejos y análisis de datos.
+Este repositorio contiene una colección de 57 ejercicios prácticos de SQL avanzado que resolví con el objetivo de profundizar mis conocimientos y demostrar dominio en el uso del lenguaje. Los ejercicios abordan temáticas como consultas complejas, funciones de ventana, CTEs (Common Table Expressions), joins avanzados y técnicas de análisis de datos, entre otros.
+
+Cada solución busca reflejar buenas prácticas y un enfoque analítico, siendo útil tanto como material de estudio como evidencia de experiencia práctica en SQL.
 
 ## 📌 Contenido
 
